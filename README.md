@@ -32,7 +32,7 @@ BMI = weight(kg) / (height(m) × height(m))
 📲 How to Use
 Clone the repository:
 
-git clone https://github.com/pankaj-145/bmi-calculator.git
+git clone https://github.com/pankaj-145/BMI-Calculator.git
 Open index.html in your browser.
 
 Enter your height (cm) and weight (kg).
