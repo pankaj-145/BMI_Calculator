@@ -19,10 +19,9 @@ BMI is calculated with the formula:
 BMI = weight(kg) / (height(m) × height(m))
 
 
+
 📁 Project Structure
-pgsql
-Copy
-Edit
+
 📦 bmi-calculator
 ├── index.html
 ├── style.css
@@ -39,14 +38,17 @@ Open index.html in your browser.
 Enter your height (cm) and weight (kg).
 Click Calculate to see your BMI and health category.
 
+
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript (Vanilla JS)
 
+
 🧑‍💻 Author
 Pankaj
 GitHub
+
 
 📃 License
 This project is open-source and free to use.
